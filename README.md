@@ -1,3 +1,8 @@
+## Home-network fork
+
+Targets MLflow **3.17.2**. See [deployment and recovery](docs/home-network.md) for
+the supported home-network setup; the upstream quick-start below is historical.
+
 ## MLFlow Tracking Server - Docker
 
 [MLflow](https://mlflow.org/) is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry. 
